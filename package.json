@@ -1,0 +1,14 @@
+{
+  "name": "rollup-project",
+  "version": "1.0.0",
+  "description": "> rollup是一款小巧的javascript打包器，可以将小块代码编译成大块复杂的代码，更适合于库应用的构建工具。",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup-plugin-json": "^2.3.0"
+  }
+}
