@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/index.js"],"sourcesContent":["import { name } from './data.json';\n\nconsole.log(name);"],"names":[],"mappings":";;;;;;;;AAEA,OAAO,CAAC,GAAG,CAAC,IAAI,CAAC;;;;"}
